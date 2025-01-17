@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.2
+pip==24.2
+streamlit
+scikit-learn
+matplotlib==3.8.0
+streamlit-option-menu==0.3.5
+scipy==1.11.3
